@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/gim.iml" filepath="$PROJECT_DIR$/gim.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gym/gym.iml" filepath="$PROJECT_DIR$/gym/gym.iml" />
+      <module fileurl="file://$PROJECT_DIR$/potencia/logica/logica.iml" filepath="$PROJECT_DIR$/potencia/logica/logica.iml" />
+      <module fileurl="file://$PROJECT_DIR$/logicav2/logicav2.iml" filepath="$PROJECT_DIR$/logicav2/logicav2.iml" />
+    </modules>
+  </component>
+</project>
